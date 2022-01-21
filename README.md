@@ -6,7 +6,7 @@
 * Sviatoslav Piasta
 * Keith Moravec
 
-### Question:  Are leading economic indicators that most every day people correlated?  
+### Question:  Are leading economic indicators that most every day people use correlated? How have these indicators changed over time?
 
 ### Step 1:  Identify Sources:
 * FRED  https://fred.stlouisfed.org
