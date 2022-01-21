@@ -10,12 +10,11 @@
 
 ### Step 1:  Identify Sources:
 * FRED  https://fred.stlouisfed.org
-* Placeholder
-* Placeholder
+* EducationData.org
 
 ### Indicators of interest
 * House Prices
-* Food Prices
+* Gas Prices
 * College
 * Average Salary
 * CPI
