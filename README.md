@@ -19,7 +19,6 @@
 * College
 * Average Salary
 * CPI
-* Stock Market Indexes
 * Population
 * 30 Year Mortgage Rate
 
