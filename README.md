@@ -5,6 +5,7 @@
 * Jorge Hernandez
 * Sviatoslav Piasta
 * Keith Moravec
+* John Tanasijevich
 
 ### Question:  Are leading economic indicators that most every day people use correlated? How have these indicators changed over time?
 
